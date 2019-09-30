@@ -1,0 +1,2 @@
+# RazorPagesMovie
+.NET Core Training
